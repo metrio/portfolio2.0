@@ -1,9 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 function CurrentlyEditing() {
-    const [imageSrc, setImageSrc] = useState()
-    
-
     return(
         <div>
             <h1>Site Is Currently Being Worked On</h1>
