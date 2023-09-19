@@ -1,7 +1,11 @@
 function About(){
     return (
         <>
-        About Page
+            <h1> What do you need to know about Demetrio ?</h1>
+            <p>
+                I have a plethora of expirience in a vartiey of fields 
+            </p>
+        
         </>
     )
 }
